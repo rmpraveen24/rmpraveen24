@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Praveen Madiwalar
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning GIT,GIT hub, cloud computing and devops tools
-- 💞️ I’m from non-IT background but interested to work in this field so I am looking for an oppotunity to work in devops and cloud computing.
+- Currently working as GIS Data engineer
+- 👀 I’m interested in data engineering and data science 
 - 📫 you can reach me, My Email: rmpraveen24@gmail.com 
 
 <!---
